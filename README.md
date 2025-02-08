@@ -93,3 +93,7 @@ To run the project, use the following commands:
 ## License
 
 This project is licensed under the MIT License.
+
+## Repository
+
+You can find the project repository on GitHub: [graph-visualization](https://github.com/chiragsuthar691/graph-visualization.git)
